@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="movie-search"/>
+<aop-project name="recommendation"/>
+<aop-project name="emailservice"/>
+<aop-project name="eureka-server"/>
+<aop-project name="distributor"/>
+<aop-project name="theatre-registration"/>
+<aop-project name="config-service"/>
+<aop-project name="login-authentication"/>
+<aop-project name="movie-schedule"/>
+<aop-project name="payment"/>
+<aop-project name="show-sheduler"/>
+<aop-project name="user-profile"/>
+<aop-project name="rsvp"/>
+<aop-project name="ticket-engine"/>
+</aop-reference-model>

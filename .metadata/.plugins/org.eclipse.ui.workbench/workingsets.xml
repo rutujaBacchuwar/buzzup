@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1539391496751_0" label="capgemini-w1-juggler-test" name="capgemini-w1-juggler-test"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1539392124151_1" label="ibm-w2-buzzup-server" name="ibm-w2-buzzup-server">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/movie-search" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/recommendation" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/emailservice" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/eureka-server" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/distributor" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/theatre-registration" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/config-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/login-authentication" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/movie-schedule" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/payment" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/user-profile" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/show-sheduler" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rsvp" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ticket-engine" type="4"/>
+</workingSet>
+</workingSetManager>
